@@ -9,4 +9,6 @@ GNU Radio Wideband Radio Spectrum Analyser using RTL-SDR
 
 ## Dependencies
 1. ![RTL-SDR](https://www.rtl-sdr.com/)
-2. ![GNU Radio](https://github.com/gnuradio/gnuradio)
+2. ![osmocom SDR](http://osmocom.org/projects/sdr/wiki/Rtl-sdr)
+3. ![GNU Radio](https://github.com/gnuradio/gnuradio)
+
