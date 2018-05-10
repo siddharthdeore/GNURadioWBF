@@ -1,2 +1,6 @@
 # GNURadioWBF
-GNU Radio Wideband Radio Spectrum Analyser ng RTL-SDR
+GNU Radio Wideband Radio Spectrum Analyser using RTL-SDR
+
+Screenshots
+-----------
+
