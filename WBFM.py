@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*-
 ##################################################
 # GNU Radio Python Flow Graph
-# Title: Top Block
-# Generated: Thu May 10 22:40:22 2018
+# Title: WBFM
 ##################################################
 
 if __name__ == '__main__':
