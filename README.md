@@ -1,4 +1,4 @@
-# GNURadioWBF
+# Wideband FM Spectrum Analyzer
 GNU Radio Wideband Radio Spectrum Analyser using RTL-SDR
 
 ## GNU Radio Companion Flow Diagram
