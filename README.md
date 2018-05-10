@@ -8,5 +8,5 @@ GNU Radio Wideband Radio Spectrum Analyser using RTL-SDR
 ![Flow Diagram](https://github.com/siddharthdeore/GNURadioWBF/blob/master/screenshot.png)
 
 ## Dependencies
--![RTL-SDR](https://www.rtl-sdr.com/)
--![GNU Radio](https://github.com/gnuradio/gnuradio)
+1. ![RTL-SDR](https://www.rtl-sdr.com/)
+2. ![GNU Radio](https://github.com/gnuradio/gnuradio)
